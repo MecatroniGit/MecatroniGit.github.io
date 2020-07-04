@@ -42,7 +42,7 @@ Em 99.7% dos casos, as pessoas que entram no curso de mecatrônica não sabem o 
 
 TODO: Terminar de escrever
 
-### 🔗 Links bacanas
+## 🔗 Links bacanas
 
 - Github da [ThundeRatz](https://github.com/ThundeRatz)
 - Github do [Grupo Turing](https://github.com/GrupoTuring)
