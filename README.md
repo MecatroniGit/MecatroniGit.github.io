@@ -1,3 +1,5 @@
+# 🤖 MecatroniGit
+
 ## 📚 O que é
 
 Organização de conteúdo feita por alunas e alunos do curso de Engenharia Mecatrônica da Poli - USP sobre tópicos de computação no contexto da mecatrônica.
