@@ -66,6 +66,8 @@ Pra ajudar você nessa jornada de aprender a mexer no **git**, temos alguns link
 - Vídeo aula da ThundeRatz [parte 1](https://youtu.be/nb8BoPCD5h4) e [parte 2](https://youtu.be/jFiit3u-uKY)
 - [Guia de git](https://guides.github.com/activities/hello-world/) do GitHub
 
+Se você é de quebrada, vai gostar [desse episódio](https://quebradev.com.br/versionamento-e-git-com-o-filho-da-nuvem/) do podcast QuebraDev sobre git e controle de versão
+
 ## ✨ Contribuindo
 
 Se você já souber o caminho das pedras com git, basta abrir uma pull request com as suas contribuições para um determinado repositório
